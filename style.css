@@ -1,0 +1,69 @@
+body{
+    background-color: black;
+}
+.head{
+    color: white;
+    font-family: 'Tilt Neon', cursive;
+    font-size: 40px;
+    margin: 100px 0px 50px 530px;
+    color: #FDB750;
+}
+.hell{
+    background-color: rgb(85, 175, 213);
+    width: 30%;
+    padding: 20px;
+    margin: 0px 0px 0px 430px;
+    height: 100px;
+    border-radius: 3%;
+    display: inline-block;
+    
+}
+#displaytime{
+    background-color: white;
+    width: 80%;
+    margin:7px auto;
+    padding: 20px 0px 20px 0px;
+    text-align: center;
+    /* height: 80px; */
+    border-radius: 3%;
+    font-size: 40px;
+    color: #0381bb;
+    box-shadow: 0 0 80px rgba(44, 34, 176, 0.8)
+}
+#button{
+    margin: 20px 538px;
+    width: 350px;
+}
+#btn1{
+    margin: 0px 10px 0px -90px;
+    padding: 5px;
+    width: 120px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    background-color: #d23332;
+    border-radius: 8%;
+    cursor: pointer;
+    color: white;
+}
+#btn2{
+    padding: 5px;
+    width: 120px;
+    margin: 0px 10px 0px 00px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    background-color: #20b380;
+    border-radius: 8%;
+    cursor: pointer;
+    color: white;
+}
+#btn3{
+    padding: 5px;
+    width: 120px;
+    margin: 0px 10px 0px 00px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    background-color: #205e94;
+    border-radius:8%;
+    cursor: pointer;
+    color: white;
+}
